@@ -1,2 +1,2 @@
 # Sentiment_Analysis
-This repositary should contain any files that is related to the project of sentiment analysis classification
+This repositary contains all files related to the project of sentiment analysis classification.
